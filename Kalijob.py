@@ -71,12 +71,7 @@ def removefileandfolder():
 run = True
 
 os.system('clear')
-while run:
-	print(Fore.GREEN+''' 
-	==============
-	By Mahan Hacker
-        ==============
-	''')
+
         print(Fore.BLUE+'''
         
         +++++++++++++++
